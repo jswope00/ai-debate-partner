@@ -90,8 +90,8 @@ PHASES = {
 }
 
 ######## AI CONFIGURATION #############
-OPENAI_MODEL = "gpt-4-turbo"
-ASSISTANT_ID = "asst_SLSuT2rtar3Aalu0qUPfqTnf"
+OPENAI_MODEL = "gpt-4o"
+ASSISTANT_ID = "asst_b8q0rA4pxtfWevDbrgJj5e0j"
 ASSISTANT_THREAD = ""
 FREQUENCY_PENALTY = 0
 MAX_TOKENS = 1000
